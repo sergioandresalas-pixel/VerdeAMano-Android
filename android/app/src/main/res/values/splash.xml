@@ -1,0 +1,8 @@
+<resources>
+    <color name="splash_background">#F7F8F2</color>
+    <bool name="splash_light_status_bar">true</bool>
+    <style name="Theme.VerdeAMano.Starting" parent="Theme.VerdeAMano">
+        <item name="android:windowBackground">@drawable/splash_window</item>
+        <item name="android:windowLightStatusBar">@bool/splash_light_status_bar</item>
+    </style>
+</resources>

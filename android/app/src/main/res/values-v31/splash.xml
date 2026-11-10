@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.VerdeAMano.Starting" parent="Theme.VerdeAMano">
+        <item name="android:windowBackground">@color/splash_background</item>
+        <item name="android:windowSplashScreenBackground">@color/splash_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_leaf</item>
+        <item name="android:windowLightStatusBar">@bool/splash_light_status_bar</item>
+    </style>
+</resources>

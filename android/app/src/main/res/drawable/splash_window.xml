@@ -1,0 +1,5 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splash_background" />
+    <item android:drawable="@drawable/ic_leaf" android:gravity="center"
+        android:width="96dp" android:height="96dp" />
+</layer-list>
